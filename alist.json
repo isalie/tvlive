@@ -1,9 +1,5 @@
 {
   "drives": [
-  	{
-  	  "name": "lake仓库",
-  	  "server": "http://lake.517666.xyz:8244"
-  	},
     {
       "name": "小雅xyz",
       "server": "http://lake.517666.xyz:5678"
