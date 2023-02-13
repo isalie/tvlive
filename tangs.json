@@ -393,8 +393,7 @@
 	 {"key": "dr_188看","name": "188看(drpy)","type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,"quickSearch": 1,"filterable": 0,
             "ext": "http://101.34.67.237/js/188看.js"   },
 	 {"key": "dr_007影视", "name": "007影视(drpy)", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 0,
-            "ext": "http://101.34.67.237/js/007影视.js" },
-	    
+            "ext": "http://101.34.67.237/js/007影视.js" },	    
 	{"key": "dr_厂长资源", "name": "厂长资源(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,
             "ext": "http://101.34.67.237/js/厂长资源.js"}
     ],
