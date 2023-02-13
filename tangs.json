@@ -399,7 +399,7 @@
             "ext": "http://101.34.67.237/js/厂长资源.js"}
     ],
 //"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]}]}],
-"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/iptv.txt"]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://ghproxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/iptv.txt"]}]}],
 
     "parses": [
         {
