@@ -335,12 +335,10 @@
         {"key": "csp_Bttoo","name": "BTtwo-饭太硬", "type": 3,"api": "csp_Bttwoo", "searchable": 1,"quickSearch": 1,"filterable": 1,
         "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"        },
         {"key": "csp_panghu","name": "胖虎-饭太硬","type": 3, "api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1,
-         "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537" },
-	{"key": "dr_新视觉影视","name": "新视觉影视-小雅(drpy)", "type": 3,"api": "http://lake.517666.xyz:5705/libs/drpy.min.js","searchable": 2, "quickSearch": 0,"filterable": 0,
-	 "ext": "http://lake.517666.xyz:5705/admin/view/新视觉影视.js"}
+         "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537" }   
     ],
 //"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]}]}],
-"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://lake.517666.xyz:10880/tvlive.txt"]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/tvlive.txt"]}]}],
 
     "parses": [
         {
