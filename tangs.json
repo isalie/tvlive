@@ -62,17 +62,6 @@
             "ext": "6deed4548c44b18d268a5d828f04d86e"
         },
         {
-            "key": "dr_新视觉影视",
-            "name": "新视觉影视(drpy)",
-            "type": 3,
-            "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://lake.517666.xyz:5705/admin/view/新视觉影视.js"
-        },
-
-        {
             "key": "Zhaozy",
             "name": "资源",
             "type": "3",
@@ -80,7 +69,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://lake.517666.xyz:10880/tvbox/token.txt"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "YiSo",
@@ -90,7 +79,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://lake.517666.xyz:10880/tvbox/token.txt"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
         	"key": "紙條",
@@ -131,7 +120,7 @@
             "type": "3",
             "api": "csp_AList",
             "searchable": "1",
-            "ext": "http://lake.517666.xyz:10880/tvbox/alist.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/alist.json"
         },
         // {"key": "Yanet","name": "鸭奶飞","type": "3", "api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1", "ext": "a369b1f623fe86605f1b029f0cf66349"},
         {"key":"Hei19","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
@@ -230,7 +219,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://lake.517666.xyz:10880/tvbox/token.txt"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "Upso",
@@ -240,7 +229,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://lake.517666.xyz:10880/tvbox/token.txt"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         //{"key": "Lib","name": "Libvio", "type": "3","api": "csp_Dora", "searchable": "1","quickSearch": "1","filterable": "1","ext": "78d057e4d03e47cb62dce13d69b41d6f" },
         //{"key": "Dy555","name": "555","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "f41992bd740145ed58cb212dc0876582"},
@@ -253,7 +242,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://lake.517666.xyz:10880/tvbox/token.txt"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         //{"key": "Zxzj","name": "在线","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "23a412dda32885ae2bcb97b956cd7ad4"},
         {
@@ -264,7 +253,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://lake.517666.xyz:10880/tvbox/token.txt"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {   "key": "快播",
             "name": "快播",
@@ -315,68 +304,7 @@
         "战争片"
       ]
     },
-        {
-            "key": "dr_360影视",
-            "name": "360影视(drpy)",
-            "type": 3,
-            "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://lake.517666.xyz:5705/admin/view/360影视.js"
-        },
-        {
-            "key": "dr_喵喵",
-            "name": "喵喵(drpy)",
-            "type": 3,
-            "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://lake.517666.xyz:5705/admin/view/喵喵.js"
-        },
-        {
-            "key": "dr_万能影视",
-            "name": "万能影视(drpy)",
-            "type": 3,
-            "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://lake.517666.xyz:5705/admin/view/万能影视.js"
-        },
-    {
-   "key": "dr_cokemv",
-   "name": "cokemv(drpy)",
-   "type": 3,
-   "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "http://lake.517666.xyz:5705/admin/view/cokemv.js"
-  },
-
-        {
-            "key": "dr_大米星球",
-            "name": "大米星球(drpy)",
-            "type": 3,
-            "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://lake.517666.xyz:5705/admin/view/大米星球.js"
-        },
-        {
-            "key": "dr_奇优影院",
-            "name": "奇优影院(drpy)",
-            "type": 3,
-            "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://lake.517666.xyz:5705/admin/view/奇优影院.js"
-        },
-
+        
         {"key":"yanetflix_spider","name":"鸭奈飞-巧计","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
         "jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
          
@@ -410,7 +338,7 @@
          "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537" }
     ],
 //"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]}]}],
-"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://lake.517666.xyz:10880/tvlive.txt"]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/tvlive.txt"]}]}],
 
     "parses": [
         {
@@ -1078,5 +1006,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-    "spider": "./custom_spider.jar;md5;517cbee472fc544a9d629eec245dea63"
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/custom_spider0213.jar;md5;517cbee472fc544a9d629eec245dea63"
 }
