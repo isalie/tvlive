@@ -356,7 +356,7 @@
         "ext": "http://101.34.67.237/js/快看.js"},
 	{"key": "dr_异世界动漫", "name": "异世界动漫(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,"quickSearch": 0,"filterable": 0,
         "ext": "http://101.34.67.237/js/异世界动漫.js"},
-	 {"key": "dr_干饭影视", "name": "干饭影视(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,"quickSearch": 0,filterable": 0,
+	 {"key": "dr_干饭影视", "name": "干饭影视(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,"quickSearch": 0,"filterable": 0,
         "ext": "http://101.34.67.237/js/干饭影视.js"},
 	{"key": "dr_小白菜电影", "name": "小白菜电影(drpy)","type": 3, "api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2, "quickSearch": 1, "filterable": 0,
         "ext": "http://101.34.67.237/js/小白菜电影.js"  },
