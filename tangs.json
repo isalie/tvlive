@@ -338,7 +338,7 @@
          "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537" }
     ],
 //"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]}]}],
-"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/tvlive.txt"]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/iptv.txt"]}]}],
 
     "parses": [
         {
