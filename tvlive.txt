@@ -1,5 +1,4 @@
 体育,#genre#
-test,http://lake.517666.xyz:10880/tvbox/live.m3u8
 CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
