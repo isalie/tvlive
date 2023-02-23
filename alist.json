@@ -1,10 +1,6 @@
 {
   "drives": [
     {
-      "name": "小雅xyz",
-      "server": "http://lake.517666.xyz:5678"
-    },
-    {
       "name": "杜比",
       "server": "https://dubi.tk"
     },
