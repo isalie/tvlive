@@ -110,7 +110,7 @@
             "type": "3",
             "api": "csp_AList",
             "searchable": "1",
-            "ext": "./alist.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/alist.txt"
         },
         // {"key": "Yanet","name": "鸭奶飞","type": "3", "api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1", "ext": "a369b1f623fe86605f1b029f0cf66349"},
         {"key":"Hei19","name":"石榴-T3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
