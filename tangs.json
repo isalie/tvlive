@@ -317,6 +317,36 @@
    "filterable": 1,
    "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/奇优影院.js"
   },
+	    {
+    "key": "dr_菜狗",
+    "name": "菜狗(drpy)",
+    "type": 3,
+    "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/菜狗.js"
+},
+{
+    "key": "dr_荐片",
+    "name": "荐片(drpy)",
+    "type": 3,
+    "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/荐片.js"
+},
+{
+    "key": "dr_真不卡",
+    "name": "真不卡(drpy)",
+    "type": 3,
+    "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/真不卡.js"
+},
 	  
 	    
   
