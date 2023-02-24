@@ -587,6 +587,36 @@
             "filterable": 1,
             "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/北川影视.js"
         },
+	    {
+            "key": "dr_南柯电影网",
+            "name": "南柯电影网(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/南柯电影网.js"
+        },
+	           {
+            "key": "dr_去看吧",
+            "name": "去看吧(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/去看吧.js"
+        },
+	            {
+            "key": "dr_叭度影视",
+            "name": "叭度影视(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/叭度影视.js"
+        },
 	    
 	    
   
