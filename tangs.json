@@ -617,6 +617,186 @@
             "filterable": 1,
             "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/叭度影视.js"
         },
+	            {
+            "key": "dr_哔哩兔",
+            "name": "哔哩兔(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/哔哩兔.js"
+        },
+        {
+            "key": "dr_哔嘀影视",
+            "name": "哔嘀影视(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/哔嘀影视.js"
+        },
+	    {
+            "key": "dr_嘶哩嘶哩",
+            "name": "嘶哩嘶哩(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/嘶哩嘶哩.js"
+        },
+	        {
+            "key": "dr_城市电影",
+            "name": "城市电影(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/城市电影.js"
+        },
+	       {
+            "key": "dr_多瑙影视",
+            "name": "多瑙影视(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/多瑙影视.js"
+        },
+	     {
+            "key": "dr_大豆",
+            "name": "大豆(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/大豆.js"
+        },
+	     {
+            "key": "dr_妮可动漫",
+            "name": "妮可动漫(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/妮可动漫.js"
+        },
+	     {
+            "key": "dr_小狗影院",
+            "name": "小狗影院(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/小狗影院.js"
+        },
+	            {
+            "key": "dr_布雷蓝光",
+            "name": "布雷蓝光(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/布雷蓝光.js"
+        },
+	     {
+            "key": "dr_影渣渣",
+            "name": "影渣渣(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/影渣渣.js"
+        },
+	     {
+            "key": "dr_思古影视",
+            "name": "思古影视(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/思古影视.js"
+        },
+	    {
+            "key": "dr_怡萱动漫",
+            "name": "怡萱动漫(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/怡萱动漫.js"
+        },
+	    {
+            "key": "dr_我爱跟剧",
+            "name": "我爱跟剧(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/我爱跟剧.js"
+        },
+	    {
+            "key": "dr_无名小站",
+            "name": "无名小站(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/无名小站.js"
+        },
+	    {
+            "key": "dr_时光影视",
+            "name": "时光影视(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/时光影视.js"
+        },
+	     {
+            "key": "dr_柒之社",
+            "name": "柒之社(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/柒之社.js"
+        },
+	     {
+            "key": "dr_欧帝影院",
+            "name": "欧帝影院(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/欧帝影院.js"
+        },
+	           {
+            "key": "dr_歪片星球",
+            "name": "歪片星球(drpy)",
+            "type": 3,
+            "api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/歪片星球.js"
+        },
 	    
 	    
   
