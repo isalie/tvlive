@@ -1,5 +1,4 @@
 体育,#genre#
-test,https://ghproxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/live.m3u8
 CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
@@ -518,6 +517,9 @@ Fox Sports News,https://austchannel-live.akamaized.net/hls/live/2002736/austchan
 NBC NEWS FHD,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 NBC News Now FHD,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 NHKWorld FHD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+SkyNews,https://ghproxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/live.m3u8
+
 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
