@@ -26,7 +26,7 @@
         {"key": "Dm84","name": "动漫-T3","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "572192a9fe2136041a58e7219a46fb2b"},
         {"key": "異界","name": "異界-FM","type": 3, "api": "csp_Ysj", "searchable": 1,"filterable": 1,"changeable": 1,
         	"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;5f350e3b859432e66db59eebc3ccce78"},
-        {"key": "AppTT","name": "图图-T3", "type": "3","api": "csp_Dora", "searchable": "1", "quickSearch": "1","filterable": "1","ext": "110c922de7d69804467fb83d3bb664b5"},
+        //{"key": "AppTT","name": "图图-T3", "type": "3","api": "csp_Dora", "searchable": "1", "quickSearch": "1","filterable": "1","ext": "110c922de7d69804467fb83d3bb664b5"},
         {"key": "IKan","name": "爱看-T3","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
         {"key": "Czsapp","name":"厂长-T3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext": "8ee655f702d0d21f3643504783babbc3"},
         {"key": "Auete","name": "奥特-T3","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"},
