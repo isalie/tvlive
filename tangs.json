@@ -42,7 +42,7 @@
         {"key": "Zxzj","name": "在线-T3","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "23a412dda32885ae2bcb97b956cd7ad4"},
         {"key": "push_agent","name": "PushAgent","type": "3","api": "csp_PushAgent","searchable": "1","quickSearch": "1","filterable": "1","ext": "./token.txt"},
         //长老部分结束
-	{"key": "csp_AppBuLei","name": "布雷影视","type": 3,"api": "csp_BuLei", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.bulei.cc"},  
+	
         {"key": "快播","name": "快播","type": 1,"api": "https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"switchable": 1,
         	"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
         {"key": "百度","name": "百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"switchable": 1,
