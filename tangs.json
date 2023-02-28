@@ -1,5 +1,6 @@
 {
     "sites": [
+	{"key": "js豆瓣","name": "免费接口，切勿贩卖","type": 3, "api": "./js/drpymin.js","searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./js/douban.js"},   
     	{"key": "T4-douban","name": "豆瓣主页","type": 4, "api": "https://t4.secan.icu/vod?douban=1143512","searchable": 0,"filterable": 1},
 	{"key": "Kuaikan","name": "快看-T3", "type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "459b1cb892e317546676a2c9dcec2bff"},
         {"key": "Kunyu77","name": "七七-T3","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"},
