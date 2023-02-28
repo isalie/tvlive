@@ -62,14 +62,14 @@
     	//	"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/真不卡.js"},
 	    
         //巧计
-	{"key":"yanetflix_spider","name":"鸭奈飞-QJ","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
-        	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-        {"key":"sliu_spider","name":"石榴电影-QJ","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
-       		"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+	//{"key":"yanetflix_spider","name":"鸭奈飞-QJ","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
+        //	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+        //{"key":"sliu_spider","name":"石榴电影-QJ","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
+       	//	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
         {"key":"csp_CZSPP","name":"厂长资源-QJ","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
         	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-        {"key":"百影视频","name":"百影视频-QJ","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175",
-        	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+        //{"key":"百影视频","name":"百影视频-QJ","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175",
+        //	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
         
 	 //饭太硬
 	{"key": "csp_YQKAPP","name": "一起看-FTY","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz",
@@ -77,7 +77,7 @@
         //{"key": "csp_AppTT","name": "图图-FTY","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,
         //	"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==",
         //	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
-        {"key": "csp_BuLei", "name": "布雷--FTY","type": 3, "api": "csp_BuLei","searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.bulei.cc",
+        {"key": "csp_BuLei", "name": "布雷-FTY","type": 3, "api": "csp_BuLei","searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.bulei.cc",
         	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
         {"key": "csp_555","name": "555-FTY", "type": 3,"api": "csp_Ys555", "searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://www.555dyy1.com",
         	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
