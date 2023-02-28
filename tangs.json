@@ -159,7 +159,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "./tvlive.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/isalie/tvlive/main/tvlive.txt",
       "playerType"= 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
