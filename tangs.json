@@ -46,7 +46,7 @@
         	"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
         {"key": "百度","name": "百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"switchable": 1,
       		"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-//drpy
+        //drpy
         {"key": "dr_哔哩影视","name": "哔哩影视(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,
    		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/哔哩影视.js"},	    
 	{"key": "dr_奇优影院","name": "奇优影院(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
@@ -57,17 +57,18 @@
     		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/荐片.js"},
 	{"key": "dr_真不卡","name": "真不卡(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
     		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/真不卡.js"},
-
+        //巧计
 	{"key":"yanetflix_spider","name":"鸭奈飞-QJ","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
         	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-         
         {"key":"sliu_spider","name":"石榴电影-QJ","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
        		"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-        {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
+        {"key":"csp_CZSPP","name":"厂长资源-QJ","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
         	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
         {"key":"百影视频","name":"百影视频-QJ","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175",
         	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-        {"key": "csp_YQKAPP","name": "一起看-FTY","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz",
+        
+	 //饭太硬
+	{"key": "csp_YQKAPP","name": "一起看-FTY","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz",
         	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
         {"key": "csp_AppTT","name": "图图-FTY","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,
         	"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==",
@@ -86,6 +87,8 @@
         	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"        },
         {"key": "csp_panghu","name": "胖虎-FTY","type": 3, "api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1,
          	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537" },
+	
+	//小雅
 	{"key": "dr_真不卡","name": "真不卡-XYDRPY","type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,"quickSearch": 0,"filterable": 0,
         	"ext": "http://101.34.67.237/js/真不卡.js"},
 	{"key": "dr_布雷蓝光","name": "布雷蓝光-XYDRPY","type": 3, "api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 1, "filterable": 0,
