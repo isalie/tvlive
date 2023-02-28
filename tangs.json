@@ -74,9 +74,9 @@
 	 //饭太硬
 	{"key": "csp_YQKAPP","name": "一起看-FTY","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz",
         	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
-        {"key": "csp_AppTT","name": "图图-FTY","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,
-        	"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==",
-        	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
+        //{"key": "csp_AppTT","name": "图图-FTY","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,
+        //	"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==",
+        //	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
         {"key": "csp_BuLei", "name": "布雷--FTY","type": 3, "api": "csp_BuLei","searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.bulei.cc",
         	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;c9001298ad1ca17aeffdb48c6c458537"},
         {"key": "csp_555","name": "555-FTY", "type": 3,"api": "csp_Ys555", "searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://www.555dyy1.com",
