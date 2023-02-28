@@ -51,16 +51,16 @@
         {"key": "百度","name": "百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"switchable": 1,
       		"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
         //drpy
-        {"key": "dr_哔哩影视","name": "哔哩影视(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,
-   		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/哔哩影视.js"},	    
-	{"key": "dr_奇优影院","name": "奇优影院(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
-  		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/奇优影院.js"},
-	{"key": "dr_菜狗","name": "菜狗(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
-    		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/菜狗.js"},
-	{"key": "dr_荐片","name": "荐片(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
-    		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/荐片.js"},
-	{"key": "dr_真不卡","name": "真不卡(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
-    		"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/真不卡.js"},
+           
+	//{"key": "dr_奇优影院","name": "奇优影院(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
+  	//	"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/奇优影院.js"},
+	//{"key": "dr_菜狗","name": "菜狗(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
+    	//	"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/菜狗.js"},
+	//{"key": "dr_荐片","name": "荐片(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
+    	//	"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/荐片.js"},
+	//{"key": "dr_真不卡","name": "真不卡(drpy)","type": 3,"api": "https://drpyyydrpyyy.qhzx.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,
+    	//	"ext": "https://drpyyydrpyyy.qhzx.repl.co//admin/view/真不卡.js"},
+	    
         //巧计
 	{"key":"yanetflix_spider","name":"鸭奈飞-QJ","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
         	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
