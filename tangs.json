@@ -63,13 +63,24 @@
 	    
         //巧计
 	//{"key":"yanetflix_spider","name":"鸭奈飞-QJ","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
-        //	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+        //	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
         //{"key":"sliu_spider","name":"石榴电影-QJ","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
-       	//	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+       	//	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
         {"key":"csp_CZSPP","name":"厂长资源-QJ","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
-        	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-        //{"key":"百影视频","name":"百影视频-QJ","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175",
-        //	"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+        	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
+        {"key":"百影视频","name":"百影视频-QJ","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175",
+        	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
+        {"key": "Tutu_spider","name": "图图影视-QJ","api": "csp_TutuYs","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "http://124.248.66.89:7788/",
+	   	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
+	{"key": "Lezhu_spider","name": "乐猪影视-QJ","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2, "quickSearch": 1,"searchable": 1,"ext": "",
+	 	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
+	{"key": "棉花影视","name": "棉花影视", "type": 3, "api": "csp_MianHua","searchable": 1,"playerType": 2,"quickSearch": 1, "filterable": 0,ext": "http://118.190.144.126",
+	 	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
+        {"key": "booys_spider","name": "书影影视","api": "csp_BookYs","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "",
+        	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
+        {"key": "niketv_spider","name": "耐客TV","api": "csp_NikeTV","type": 3,"filterable": 1,"playerType": 2, "quickSearch": 1,"searchable": 1,"ext": "",
+	 	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
+        
         
 	 //饭太硬
 	{"key": "csp_YQKAPP","name": "一起看-FTY","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz",
