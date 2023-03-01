@@ -74,11 +74,11 @@
 	   	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
 	{"key": "Lezhu_spider","name": "乐猪影视-QJ","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2, "quickSearch": 1,"searchable": 1,"ext": "",
 	 	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
-	{"key": "棉花影视","name": "棉花影视", "type": 3, "api": "csp_MianHua","searchable": 1,"playerType": 2,"quickSearch": 1, "filterable": 0,ext": "http://118.190.144.126",
+	{"key": "棉花影视","name": "棉花影视-QJ", "type": 3, "api": "csp_MianHua","searchable": 1,"playerType": 2,"quickSearch": 1, "filterable": 0,ext": "http://118.190.144.126",
 	 	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
-        {"key": "booys_spider","name": "书影影视","api": "csp_BookYs","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "",
+        {"key": "booys_spider","name": "书影影视-QJ","api": "csp_BookYs","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "",
         	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
-        {"key": "niketv_spider","name": "耐客TV","api": "csp_NikeTV","type": 3,"filterable": 1,"playerType": 2, "quickSearch": 1,"searchable": 1,"ext": "",
+        {"key": "niketv_spider","name": "耐客TV-QJ","api": "csp_NikeTV","type": 3,"filterable": 1,"playerType": 2, "quickSearch": 1,"searchable": 1,"ext": "",
 	 	"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
         
         
