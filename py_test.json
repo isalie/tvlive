@@ -63,7 +63,7 @@
 {"key": "py_gitcafe","name": "小纸条-PY","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/isalie/PyramidStore/main/plugin/py_gitcafe.py"}, 
 {"key": "py_yiso","name": "易搜PY","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/isalie/PyramidStore/main/plugin/py_yiso.py", 
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/isalie/PyramidStore/main/plugin/py_yiso.py"}, 
 {"key": "py_zhaozy","name": "找资源PY","type": 3,"api": "py_zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/isalie/PyramidStore/main/plugin/py_zhaozy.py"}, 
 {"key": "py_alist","name": "AlistPY","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 0,
