@@ -126,6 +126,18 @@
          	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c" },
 	
 	//小雅
+	    
+	 {
+            "key": "dr_万能影视",
+            "name": "万能影视(drpy)",
+            "type": 3,
+            "api": "http://lake.517666.xyz:5705/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://lake.517666.xyz:5705/admin/view/万能影视.js"
+        },
+
 	{"key": "dr_真不卡","name": "真不卡-XYDRPY","type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,"quickSearch": 0,"filterable": 0,
         	"ext": "http://101.34.67.237/js/真不卡.js"},
 	{"key": "dr_布雷蓝光","name": "布雷蓝光-XYDRPY","type": 3, "api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 1, "filterable": 0,
