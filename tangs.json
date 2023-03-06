@@ -224,6 +224,7 @@
             "url": "Sequence"
         },
         //{"name": "万年魂环解析三","type": 1,"url": "http://jiexi.parses.repl.co/api.php?url="},
+	{"name": "冰豆解析","type": 1,"url": "https://bd.jx.cn/?url="},
 	{
             "name": "酷云",
             "url": "http://lake.517666.xyz:5705/parse/api/酷云.js?url=",
