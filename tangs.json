@@ -13,7 +13,7 @@
 		"jar": "./jar/修复阿里原画急速加载.jar"},
 	{"key": "PanSo","name": "易搜-原画加速","type": 3,"api": "csp_YiSo", "searchable": 1,"quickSearch": 1, "filterable": 0, "changeable": 0,"ext": "./tokennew.txt",
 		"jar": "./jar/修复阿里原画急速加载.jar"},
-	{"key": "push_agent","name": "PushAgent","type": "3","api": "csp_PushAgent","searchable": "1","quickSearch": "1","filterable": "1","ext": "./tokennew.txt".
+	{"key": "Push","name": "PushAgent","type": "3","api": "csp_PushAgent","searchable": "1","quickSearch": "1","filterable": "1","ext": "./tokennew.txt".
 		"jar": "./jar/修复阿里原画急速加载.jar"},
         //{"key": "YiSo","name": "易搜-FTY","type": 3,"api": "csp_YiSo", "searchable": 1,"quickSearch": 1, "filterable": 0, "changeable": 0,"ext": "./token.txt",
 	//	"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c"        },
